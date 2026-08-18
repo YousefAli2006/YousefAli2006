@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hello, I'm Yousef Ali Sobhy
 
-<!--
-**YousefAli2006/YousefAli2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineer** | Building production‑ready AI & solving real‑world problems with data.
 
-Here are some ideas to get you started:
+I’m passionate about making reliable, scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently working on **A personal Machine Learning project**.
+- 🌱 I’m deepening my knowledge in **Deep Learning, Natural Language Processing, Computer Vision**.
+- 💬 Ask me about: **Python, PyTorch, ML pipelines, model evaluation** – or anything ML!
+- ⚡ Fun fact: I also like writing stories.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| **Category**          | **Technologies** |
+|------------------------|------------------|
+| **Languages**          | Python |
+| **ML/DL Frameworks**   | PyTorch, TensorFlow, Keras, scikit‑learn |
+| **Data Processing**    | Pandas, NumPy |
+| **MLOps & Deployment** | MLflow |
+| **Visualisation**      | Matplotlib, Seaborn, Plotly |
+| **Version Control**    | Git, GitHub |
+
+
+---
+
+## 🚀 Current Focus
+
+- Increasing my knowledge in Deep Learning.
+- Writing clean, reproducible code.
+
+
+## 📫 Let’s Connect
+
+I’m always open to interesting conversations and collaboration opportunities.
+
+- 🛠️ [Upwork](https://www.upwork.com/freelancers/~01f6db474d3ca0308a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yousef-ali-sobhy-emarah/)
+- 📧 [Email](yousefalisobhy2006@gmail.com)
+
+---
+
+## ✨ Thanks for visiting!
