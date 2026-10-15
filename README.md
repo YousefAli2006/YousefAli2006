@@ -18,8 +18,6 @@ My primary expertise lies in building, optimizing, and deploying production ML s
 - **Natural Language Processing:** Text classification, sequence modeling, and language applications.
 - **ML Systems Engineering:** Taking models out of experimental notebooks and scaling them into reliable production environments.
 
-- 🔭 I’m currently working on **a personal Machine Learning project**.
-- 🌱 I’m deepening my knowledge in **Deep Learning, Natural Language Processing, Computer Vision**.
 - 💬 Ask me about: **Python, PyTorch, ML pipelines, model evaluation** – or anything ML!
 - ⚡ Fun fact: I also like writing stories.
 
