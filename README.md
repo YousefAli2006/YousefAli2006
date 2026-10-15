@@ -2,8 +2,6 @@
 
 **Machine Learning Engineer** | NLP, Computer Vision | AI Systems Development and Deployment
 
-I’m passionate about making reliable, scalable systems.
-
 ---
 
 ## 🧠 About Me
