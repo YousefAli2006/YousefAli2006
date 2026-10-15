@@ -10,7 +10,7 @@ I am a Machine Learning Engineer focused on the entire lifecycle of intelligent 
 
 My primary expertise lies in building, optimizing, and deploying production ML systems specializing in Natural Language Processing (NLP) and Computer Vision (CV).
 
-**Core Competencies:**
+**Core Skills:**
 
 - **Natural Language Processing:** Text classification, sequence modeling, and language applications.
 - **Computer Vision:** Image processing, object detection, and visual data pipelines.
