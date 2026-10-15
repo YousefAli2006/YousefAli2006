@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yousef Ali Sobhy
 
-**Machine Learning Engineer** | Building production‑ready AI & solving real‑world problems with data.
+**Machine Learning Engineer** | NLP, Computer Vision | AI Systems Development and Deployment
 
 I’m passionate about making reliable, scalable systems.
 
@@ -14,8 +14,8 @@ My primary expertise lies in building, optimizing, and deploying production ML s
 
 **Core Competencies:**
 
-- **Computer Vision:** Image processing, object detection, and visual data pipelines.
 - **Natural Language Processing:** Text classification, sequence modeling, and language applications.
+- **Computer Vision:** Image processing, object detection, and visual data pipelines.
 - **ML Systems Engineering:** Taking models out of experimental notebooks and scaling them into reliable production environments.
 
 - 💬 Ask me about: **Python, PyTorch, ML pipelines, model evaluation** – or anything ML!
